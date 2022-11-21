@@ -36,12 +36,11 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
  
-<!--  -->
-
+<!--
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=foulked&&show_icons=true"/>
   </a>
 
 </p>
-
+-->
